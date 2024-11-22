@@ -1,5 +1,6 @@
 # this is a playground repository for cohort 5
 
+# this is Hadia's version of the repository
 Session #3: Git & GitHub
 
 Initializing a Repository
